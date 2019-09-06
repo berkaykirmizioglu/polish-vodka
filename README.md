@@ -18,6 +18,9 @@ then type and enter
 flask run
 ````
 
-**Example Screenshot:**
+**Example Screenshots:**
 
 ![Screenshot](https://github.com/berkaykirmizioglu/polish-vodka/blob/master/static/example_ss.png)
+
+![Screenshot](https://github.com/berkaykirmizioglu/polish-vodka/blob/master/static/Screen%20Shot%202019-09-06%20at%2015.45.14.png)
+
