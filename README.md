@@ -17,3 +17,7 @@ then type and enter
 ````
 flask run
 ````
+
+**Example Screenshot:**
+
+![Alt text](/Users/berkay.kirmizioglu/Desktop/Screen Shot 2019-09-06 at 15.23.37.png "Main Screen")
